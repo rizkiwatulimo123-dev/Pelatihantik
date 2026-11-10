@@ -11,9 +11,8 @@ color: #191970; /* Warna teks utama (Biru Gelap) */
   background-colour:white;
   border-radius:  15px; /* Membuat sudut menjadi melengkung */
   box-shadow:  0 4px 8px rgba(0,0,0,0.1);
-   text-align: center;
+  text-align: center;
 }
-|
 
 .kartu.profil img {
     width:  150px;
