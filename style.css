@@ -10,7 +10,7 @@ color: #191970; /* Warna teks utama (Biru Gelap) */
   padding:  20px;
   background-colour:Green;
   border-radius:  15px; /* Membuat sudut menjadi melengkung */
-  box-shadow:  0 4px 8px rgba(0,0,0,0.1);
+  box-shadow:  0 4px 8px rgba(0,128,0,0.3);
   text-align: center;
 }
 
